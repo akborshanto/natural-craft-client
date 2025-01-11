@@ -1,8 +1,8 @@
 
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 
-const initialState = {
-    data: [], // This will hold the array of objects from the API
+const initialState = { 
+    data: [], // This will hold the array of objects from the Api
     status: 'idle', // status to manage loading, success, error states
     error: null, // To handle any errors during the API call
 };

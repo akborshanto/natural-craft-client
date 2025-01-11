@@ -1,3 +1,3 @@
 git add .
-git commit -m 'erro axios'
+git commit -m 'install redux'
 git push

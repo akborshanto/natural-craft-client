@@ -4,6 +4,7 @@ import { Toaster } from "react-hot-toast";
 import Footer from "../../Components/Footer/Footer";
 import { Tooltip } from "react-tooltip";
 
+
 const Root = () => {
   const location = useLocation();
   console.log(location);
@@ -13,7 +14,10 @@ const Root = () => {
       <Tooltip id="my-tooltip" />
       {location.pathname !== "/" && <Navber />}
       <Outlet />
+     
       <Footer />
+   
+    
     </div>
   );
 };

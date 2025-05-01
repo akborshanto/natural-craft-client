@@ -8,7 +8,7 @@ Natural Craft is a creative platform designed to showcase and manage handcrafted
 
 #### Features:
 
-- **Beautiful Swiper UI:** Enjoy a visually appealing user interface with a swiper component, making navigation smooth and engaging.
+- **Beautiful Swiper UI:** Enjoy a visually appealing  user interface with a swiper component, making navigation smooth and engaging.
 - **Product Addition:** Easily add your crafted products to showcase your creations to the world.
 
 - **My Craft Items:** Keep track of the items you've added through the "My Craft Items" route, ensuring you never lose sight of your creations.

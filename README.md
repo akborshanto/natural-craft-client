@@ -4,7 +4,7 @@ Live Site: [Natural Craft](https://naturalcraft-7d1c8.web.app/)
 ### Category: Jute & Wooden Crafts
 
 
-Natural Craft is a creative platform designed to showcase and manage handcrafted products. With features  for adding products, managing your creations, and exploring craft items from other users, it provides a comprehensive experience for craft enthusiasts. 
+Natural Craft is a creative platform designed to showcase and manage  handcrafted products. With features  for adding products, managing your creations, and exploring craft items from other users, it provides a comprehensive experience for craft enthusiasts. 
 
 #### Features:
 
